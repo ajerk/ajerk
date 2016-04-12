@@ -1,0 +1,94 @@
+body{
+    margin:0;
+    background-color: darkslategray;
+}
+
+h1,h2,h3,h4,p,a,span{
+    font-family: 'Microsoft Yahei', Helvetica, Arial, sans-serif; 
+}
+
+.div-text-align-center{
+    text-align:center;   
+}
+
+.div-main-container-top-1{
+    display:block;
+    background-color: darkslategray;
+    height: 55px;
+    width:1472px;
+    padding:0px;
+    margin:0px;
+}
+
+.div-main-container-top-2{
+    display:block;
+    height: 53px;
+    width:1472px;
+    padding:0px;
+    margin:0px;
+}
+
+.div-main-container-top-2_1{
+    display:block;
+    background-color: #528B8B;
+    height:33px;
+    width:1472px;
+    padding:0px;
+    margin:0px;
+}
+
+.div-main-container-top-2_2{
+    display:block;
+    background-color: darkslategray;
+    height:20px;
+    border:none;
+}
+
+.div-main-container-bottom{
+    display:block;
+    height:564px;
+    width:1472px;
+    float:left;
+    padding:0px;
+    margin:0px;
+    margin-top:0;
+}
+
+.div-main-tip-solvebug_1{
+    position:absolute;
+    top:108px;
+    left:0;
+    display:block;
+    height:2px;
+    width:1472px;
+    background-color:darkslategray;
+}
+
+.div-main-tip-solvebug_2{
+    position:absolute;
+    top:108px;
+    left:145px;
+    display:block;
+    height:564px;
+    width:2px;
+    background-color:darkslategray ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    

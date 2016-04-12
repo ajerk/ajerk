@@ -1,0 +1,118 @@
+body{
+    margin:0;
+    background-color: white;
+    
+}
+
+h1,h2,h3,h4,p,a,span{
+    font-family: 'Microsoft Yahei', Helvetica, Arial, sans-serif; 
+}
+
+.activity-main-container{
+    display:block;
+    float: left;
+    min-height:554px;
+    background-color:white;
+    width:1198px;
+    margin: 0;
+    border: 1px solid #AAAAAA;
+    padding:0px;    
+}
+
+.activity-main-top{
+    display: inline-block;
+    float: left;
+    margin-left: 0px;
+    padding-left:5px;
+    height:40px;
+    width:1194px;
+    background-color:#336666;
+}
+
+.activity-top-text{
+    float:left;
+    color:white;
+    font-size: 15px;
+    margin:7.5px;
+}
+
+.activity-main-bottom{
+    display:block;
+    float: left;
+    min-height:512px;
+    background-color:#ffffff;
+    width:1176px;
+    margin: auto;
+    padding:0px; 
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.activity-news-container{
+    display:block;
+    float: left;
+    min-height:105px;
+    width:800px;
+    border: 1px solid #AAAAAA;
+    border-radius:5px;
+    margin-left:120px;
+    margin-bottom:60px;
+    margin-top:25px;
+    padding:8px;
+    background-color:#F8F8FF;
+}
+
+.activity-news-top{
+    display:block;
+    float: left;
+    height:60px;
+    width:800px;
+    padding-top:15px;
+    padding-left:10px;
+}
+
+.activity-news-bottom{
+    display:block;
+    float: left;
+    min-height:28px;
+    width:800px;
+    padding:2px;
+    margin-top:10px;
+    padding-left:10px;
+}
+
+.activity-news-top-photo{
+    display:inline-block;
+    float: left;
+    height:50px;
+    width:50px;
+    border-radius:4px;
+}
+
+.activity-news-top-right{
+    padding-left:15px;
+    display:inline-block;
+    float: left;
+    height:50px;
+    width:700px;
+}
+
+.activity-news-top-tip{
+    color:darkgray;
+    font-size:10px;
+    font-family: Arial, sans-serif; 
+}
+
+.activity-news-bottom-content{
+    color:black;
+    font-size:18px;
+    font-family: 'Microsoft Yahei', Helvetica, Arial, sans-serif; 
+}
+
+
+
+
+
+
+
+
